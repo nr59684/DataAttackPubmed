@@ -1,0 +1,7 @@
+There are following documents which can be downloaded from the below drive link:
+1. papersOld.json --> which contains all the old publications since 2018
+2. papersNew.json --> which contains all the new publications until Dec 2024
+3. membership_inference_results.json --> which contains the zlib ratio and details of our attack
+4. generated_pubmedbert_samples.json --> which contains the samples of masked prompts for MIA 
+5. pubmed_2010_2024_intelligence.json --> which contains the complete pubmed data with full text and absgtracts of the publications from 01.01.2010 to 31.12.2024
+link --> https://drive.google.com/drive/folders/1kzFIK0HNpS0edebPVzdcwIQEoUBw4Jhz?usp=sharing
