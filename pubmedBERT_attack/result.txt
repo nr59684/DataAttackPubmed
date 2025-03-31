@@ -1,3 +1,0 @@
-There are 2 Run folders inside this attack folder which cointains results like Generations.json and attack_result.json which gives all the prompts, their responses, cinfidence and memorized or not.
-The Run 2 is most important for us as we found the memorization results in that run
-It can be downloaded from the following google drive: https://drive.google.com/drive/folders/1kzFIK0HNpS0edebPVzdcwIQEoUBw4Jhz?usp=sharing
