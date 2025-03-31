@@ -1,0 +1,2 @@
+There are 5 Run folders inside this attack folder which cointains results like Generations.json and attack_result.json which gives all the prompts, their responses, zlib, perplexity and memorized or not.
+It can be downloaded from the following google drive: https://drive.google.com/drive/folders/1kzFIK0HNpS0edebPVzdcwIQEoUBw4Jhz?usp=sharing
