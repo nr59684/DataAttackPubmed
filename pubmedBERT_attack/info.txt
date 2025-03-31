@@ -1,4 +1,0 @@
-There are following documents which can be downloaded from the below drive link:
-1. generated_pubmedbert_samples.json --> which contains all the generated samples with pubmedBert
-2. membership_inference_results.json --> which contains the results of the attack i.e. comparison of generated_pubmedbert_samples with training corpus
-link --> https://drive.google.com/drive/folders/1kzFIK0HNpS0edebPVzdcwIQEoUBw4Jhz?usp=sharing
