@@ -4,7 +4,7 @@ from Bio import Entrez
 from datetime import datetime, timedelta
 
 # 1. Configure Email (required by Entrez)
-Entrez.email = "rijhwaninilesh@gmail.com"
+Entrez.email = "<email_address_removed>" #use your registered email address
 
 ###############################################################################
 # HELPER FUNCTIONS
