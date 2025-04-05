@@ -159,7 +159,7 @@ If using this work or code, please cite as:
 ## ✍️ Author
 
 **Nilesh Rijhwani** & **Bhavana Krishna** 
-🎓 Computer Linguistics research project  
+🎓 Computational Linguistics research project  
 📬 Contact via - [Nilesh](https://github.com/nr59684) Or [Bhavana](https://github.com/Bhavana1202)
 
 ---
